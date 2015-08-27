@@ -1,0 +1,1 @@
+Aplicación para gestionar pistas de padel. Con un sistema de administración de las pistas y con frontend para facilitar al usuario las reservas y el alquiler de pistas. Así como un sistema de generación de partidos aleatorios entre usuarios registrados y de campeonatos locales.
